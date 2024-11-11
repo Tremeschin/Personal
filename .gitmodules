@@ -1,3 +1,6 @@
 [submodule ".github/profile"]
 	path = .github/profile
 	url = https://github.com/Tremeschin/Tremeschin/
+[submodule "Projects/Factorium"]
+	path = Projects/Factorium
+	url = https://github.com/Tremeschin/Factorium
